@@ -1,6 +1,6 @@
 # Intermediate HTML and CSS Projects:
 
-### All Intermediate HTML and CSS Projects | The Odin Project | Intermediate HTML and CSS
+### Intermediate HTML and CSS | The Odin Project | All Project
 
 This repository will include links to all projects of the "Intermediate HTML and CSS" course within "The Odin Project".
 
