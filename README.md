@@ -4,7 +4,7 @@
 
 This repository will include links to all projects of the "Intermediate HTML and CSS" course within "The Odin Project".
 
-This repository was created after I completed the "Intermediate HTML and CSS" course, and its main goal is to give easy access to all projects done during the course including a short summary of what the projects include. [^1]
+This repository was created after I completed the "Intermediate HTML and CSS" course, and its main goal is to give easy access to all projects done during the course including a short summary of what the projects include.
 
 Please take note of each project's commit history; it is possible additional features (not in the scope of the original project) were added to a certain project; you can use the commit history (and the "README" file within each repository) to determine whether additional features (that weren't a part of the original project) were added to a project.
 
@@ -25,6 +25,3 @@ Please take note of each project's commit history; it is possible additional fea
 - "Sign-Up Form" (Personal Design) - Form creation and validation | Creating a sign up form and validating data (client-side) via JavaScript
 
 - "Admin Dashboard" - Introduction to grid layout | Creating an admin dashboard using grid
-
-
-[^1]: *It should be mentioned that the projects are not "retired", meaning, I will still work on them and improve them when I learn new concepts, this repository was created solely for convenience.*
