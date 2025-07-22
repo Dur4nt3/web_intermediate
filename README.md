@@ -1,6 +1,6 @@
-# Intermediate HTML and CSS Projects:
+# Intermediate HTML and CSS Projects
 
-### Intermediate HTML and CSS | The Odin Project | All Project
+## Intermediate HTML and CSS Projects - Overview
 
 This repository will include links to all projects of the "Intermediate HTML and CSS" course within "The Odin Project".
 
@@ -8,7 +8,7 @@ This repository was created after I completed the "Intermediate HTML and CSS" co
 
 Please take note of each project's commit history; it is possible additional features (not in the scope of the original project) were added to a certain project; you can use the commit history (and the "README" file within each repository) to determine whether additional features (that weren't a part of the original project) were added to a project.
 
-### Projects Included: 
+## Projects Included
 
 - ["Sign-Up Form" (The Odin Project)](https://github.com/Dur4nt3/form_project) - The first project of the course, a basic sign up form.
 
