@@ -16,7 +16,7 @@ Please take note of each project's commit history; it is possible additional fea
 
 - ["Admin Dashboard"](https://github.com/Dur4nt3/admindash_project) - The final project of the "Intermediate HTML and CSS" course, an admin dashboard.
 
-### Subjects:
+### Subjects
 
 **This subsection will include a brief summary of the subjects put to practice with each project**
 
